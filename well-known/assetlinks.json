@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.sennalabs.mobile.mantra",
-    "sha256_cert_fingerprints":
-    ["4C:FC:82:06:38:1A:69:FF:4A:0B:6E:F9:46:EF:CA:0E:33:6A:55:E5:7F:EE:88:5B:15:D7:11:AA:B1:15:3C:10"]
-  }
-}]
